@@ -4,7 +4,7 @@ My name is Samuel Santos from Brazil 📚. I've been learning Web Programming si
 
 I'm currently learning about React, NodeJS and React Native. These technologies are amazing ❤️.
 
-In my free time I like to play video games, to watch movies 🎞️ and series 📺, to read book 📚 (my eternal love), to listen to music 🎵, and eventually  I like to philosophize about life with a beer 🍺.
+In my free time I like to play video games, to watch movies 🎞️ and series 📺, to read books 📚 (my eternal love), to listen to music 🎵, and eventually I like to philosophize about life with a beer 🍺.
 
 To find me:
 
