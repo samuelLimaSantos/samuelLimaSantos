@@ -9,7 +9,7 @@ In my free time I like to play video games, to watch movies 🎞️ and series �
 To find me:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/samuel-santos-036375174/)](https://www.linkedin.com/in/samuel-santos-036375174/)
-
+[![Gmail Badge](https://img.shields.io/badge/-samuellima280499@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:samuellima280499@gmail.com)](mailto:samuellima280499@gmail.com)
 
 
 
