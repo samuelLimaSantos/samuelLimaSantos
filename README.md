@@ -1,6 +1,6 @@
 ### Hi there 😄
 
-My name is Samuel Santos from Brazil 📚. I've been learning Web Programming since 2019 and currently I'm looking for new opportunities 💬.
+My name is Samuel Santos from Brazil 📚. I've been learning Web Programming since 2019 and currently I'm a studient at Rocketseat 💬.
 
 I'm currently learning about React, NodeJS and React Native. These technologies are amazing ❤️.
 
