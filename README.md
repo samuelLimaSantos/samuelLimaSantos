@@ -2,7 +2,7 @@
 
 My name is Samuel Santos from Brazil 📚. I've been learning Web Programming since 2019 and currently I'm a studient at Rocketseat 💬.
 
-I'm currently learning about React, NodeJS and React Native. These technologies are amazing ❤️.
+I'm currently learning about React, NodeJS, React Native, Angular and Python. These technologies are amazing ❤️.
 
 In my free time I like to play video games, to watch movies 🎞️ and series 📺, to read books 📚 (my eternal love), to listen to music 🎵, and eventually I like to philosophize about life with a beer 🍺.
 
