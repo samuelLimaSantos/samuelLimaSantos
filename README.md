@@ -9,6 +9,13 @@ In my free time I like to play video games, to watch movies 🎞️ and series �
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelLimaSantos&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
+```text
+Python       16 hrs 37 mins  █████████████▓░░░░░░░░░░░   55.13 % 
+TypeScript   8 hrs 35 mins   ███████░░░░░░░░░░░░░░░░░░   28.50 % 
+HTML         3 hrs 40 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
+JSON         27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
+JavaScript   22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
+```
 <!--END_SECTION:waka-->
 
 To find me:
