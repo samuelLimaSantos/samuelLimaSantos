@@ -8,6 +8,9 @@ In my free time I like to play video games, to watch movies 🎞️ and series �
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelLimaSantos&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+
+My Week activity: 
+
 <!--START_SECTION:waka-->
 ```text
 Python       16 hrs 37 mins  █████████████▓░░░░░░░░░░░   55.13 % 
