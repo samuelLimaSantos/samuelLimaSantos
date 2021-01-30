@@ -8,6 +8,8 @@ In my free time I like to play video games, to watch movies 🎞️ and series �
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelLimaSantos&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 To find me:
 
