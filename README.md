@@ -6,8 +6,6 @@ I'm currently learning about React, NodeJS, React Native, Angular and Python. Th
 
 In my free time I like to play video games, to watch movies 🎞️ and series 📺, to read books 📚 (my eternal love), to listen to music 🎵, and eventually I like to philosophize about life with a beer 🍺.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelLimaSantos&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 
 My Week activity: 
 
