@@ -11,11 +11,11 @@ My Week activity:
 
 <!--START_SECTION:waka-->
 ```text
-TypeScript   18 hrs 50 mins  ███████████████████▒░░░░░   77.61 % 
-C#           2 hrs 52 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
-Other        1 hr 18 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
-Markdown     34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
-PowerShell   18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
+TypeScript   17 hrs 36 mins  ███████████████████▓░░░░░   79.20 % 
+C#           2 hrs 23 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
+Other        44 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
+JavaScript   32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
+Markdown     32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
 ```
 <!--END_SECTION:waka-->
 
