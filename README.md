@@ -11,11 +11,11 @@ My Week activity:
 
 <!--START_SECTION:waka-->
 ```text
-Python       14 hrs 8 mins   ██████████▒░░░░░░░░░░░░░░   40.83 % 
-TypeScript   13 hrs 37 mins  ██████████░░░░░░░░░░░░░░░   39.36 % 
-JavaScript   4 hrs 3 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
-C#           1 hr 27 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
-Git Config   22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
+Python       18 hrs 6 mins   ███████████▓░░░░░░░░░░░░░   47.06 % 
+TypeScript   15 hrs 53 mins  ██████████▒░░░░░░░░░░░░░░   41.30 % 
+JavaScript   3 hrs 39 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.49 % 
+Markdown     18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+JSON         17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
 ```
 <!--END_SECTION:waka-->
 
