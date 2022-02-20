@@ -11,8 +11,6 @@ My Week activity:
 
 <!--START_SECTION:waka-->
 ```text
-Total: 16 hrs 25 mins
-
 TypeScript   12 hrs 5 mins   ██████████████████▒░░░░░░   73.64 % 
 Go           1 hr 34 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
 HTML         1 hr 20 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
