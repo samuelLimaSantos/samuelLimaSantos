@@ -12,9 +12,8 @@ My Week activity:
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   15 hrs 10 mins  █████████████████████▓░░░   86.76 %
-JSON         1 hr            █▒░░░░░░░░░░░░░░░░░░░░░░░   05.73 %
-Other        55 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.33 %
+TypeScript   13 hrs 20 mins  ██████████████████████░░░   87.79 %
+Other        52 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.77 %
 ```
 
 <!--END_SECTION:waka-->
