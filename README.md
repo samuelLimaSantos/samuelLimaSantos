@@ -12,7 +12,8 @@ My Week activity:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+JavaScript   11 mins         ███████████████████████░░   91.90 %
+YAML         1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 %
 ```
 
 <!--END_SECTION:waka-->
