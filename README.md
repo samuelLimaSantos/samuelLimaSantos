@@ -12,7 +12,8 @@ My Week activity:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+JavaScript        1 hr 45 mins    ██████████████████████▒░░   89.91 %
+Java Properties   11 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.09 %
 ```
 
 <!--END_SECTION:waka-->
