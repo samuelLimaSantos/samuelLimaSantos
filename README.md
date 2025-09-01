@@ -12,9 +12,7 @@ My Week activity:
 <!--START_SECTION:waka-->
 
 ```txt
-CSV          14 mins         ████████████████████████▓   99.09 %
-TypeScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
-HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
