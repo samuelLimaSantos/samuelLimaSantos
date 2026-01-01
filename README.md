@@ -12,10 +12,7 @@ My Week activity:
 <!--START_SECTION:waka-->
 
 ```txt
-SCSS         40 mins         ██████████████▒░░░░░░░░░░   56.76 %
-JavaScript   29 mins         ██████████▒░░░░░░░░░░░░░░   41.11 %
-TypeScript   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
