@@ -12,7 +12,8 @@ My Week activity:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+JavaScript   7 mins          ████████████████████████▓   99.28 %
+Markdown     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
 ```
 
 <!--END_SECTION:waka-->
